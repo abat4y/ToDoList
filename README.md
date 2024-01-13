@@ -1,5 +1,5 @@
 # React Todo App with Local Stroage
-![Preview of downloading code in github](./github.jpeg)
+
 To get a project up and running:
 1. Unzip the project you downloaded.
 2. Open the unzipped directory in you code editor.
